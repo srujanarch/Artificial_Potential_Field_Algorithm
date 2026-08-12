@@ -43,6 +43,8 @@ Drone Repulsion
 
 The resulting force determines the direction of motion.
 
+![Artificial Potential Field Simulation](Simulation.gif)
+
 ## 🎯 Objectives
 
 * Navigate three drones toward their targets.
